@@ -66,7 +66,7 @@ The final analytics layer joins fact and dimension tables for BI-ready insights.
 
 ## 📊 Final Dashboard Preview
 
-![Dashboard](dashboard/dashboard_final.png)
+![Dashboard](https://lookerstudio.google.com/s/sDzkyan_hB4)
 
 ---
 
@@ -103,7 +103,7 @@ This project is ideal for showcasing capabilities for roles in:
 
 ## 🤝 Let's Connect
 
-If you're a hiring manager, engineer, or fellow data enthusiast—I'd love your feedback or thoughts! Feel free to open an issue, fork the project, or connect on [LinkedIn](#).
+If you're a hiring manager, engineer, or fellow data enthusiast—I'd love your feedback or thoughts! Feel free to open an issue, fork the project, or connect on [LinkedIn](https://www.linkedin.com/in/saranshsinghdollar/).
 
 ---
 
